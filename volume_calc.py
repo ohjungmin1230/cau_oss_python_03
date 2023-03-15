@@ -1,0 +1,5 @@
+x=input("가로:")
+y=input("세로:")
+h=input("높이:")
+v=float(x)*float(y)*float(h)
+print("박스의 부피는"+str(v)+"입니다.")
